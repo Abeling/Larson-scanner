@@ -2,7 +2,11 @@
 
 https://www.youtube.com/watch?v=60ab3kF-zPM
 
-## code:
+
+## Video, Code & Codebender link:
+http://20524.hosts.ma-cloud.nl/bewijzenmap/jaar1/periode4/R&D/larson/
+
+### Code:
 int del=100; // delay between LED movements
 
 void setup()
